@@ -1,0 +1,39 @@
+.li{
+    margin-top: 10px;
+    list-style: none;
+    margin-right: 15px;
+}
+
+.uli{
+    display: flex;
+align-items: flex-start;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+h2{
+    margin-left: 30px;
+}
+
+.carousel{
+    width: 1700px;
+
+}
+
+img{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.nav{
+    margin-left: 30px;
+}
+
+
+
